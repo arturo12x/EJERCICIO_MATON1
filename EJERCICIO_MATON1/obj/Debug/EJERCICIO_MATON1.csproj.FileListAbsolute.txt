@@ -1,0 +1,29 @@
+C:\Users\e5-575\Desktop\Jazhiel\Progra\EJERCICIO_MATON1\EJERCICIO_MATON1\bin\Debug\EJERCICIO_MATON1.exe.config
+C:\Users\e5-575\Desktop\Jazhiel\Progra\EJERCICIO_MATON1\EJERCICIO_MATON1\bin\Debug\EJERCICIO_MATON1.exe
+C:\Users\e5-575\Desktop\Jazhiel\Progra\EJERCICIO_MATON1\EJERCICIO_MATON1\bin\Debug\EJERCICIO_MATON1.pdb
+C:\Users\e5-575\Desktop\Jazhiel\Progra\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.csprojAssemblyReference.cache
+C:\Users\e5-575\Desktop\Jazhiel\Progra\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.Form1.resources
+C:\Users\e5-575\Desktop\Jazhiel\Progra\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.Properties.Resources.resources
+C:\Users\e5-575\Desktop\Jazhiel\Progra\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.csproj.GenerateResource.cache
+C:\Users\e5-575\Desktop\Jazhiel\Progra\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.csproj.CoreCompileInputs.cache
+C:\Users\e5-575\Desktop\Jazhiel\Progra\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.exe
+C:\Users\e5-575\Desktop\Jazhiel\Progra\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.pdb
+C:\Users\Arturo\Desktop\EJERCICIO_MATON1\EJERCICIO_MATON1\bin\Debug\EJERCICIO_MATON1.exe.config
+C:\Users\Arturo\Desktop\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.exe
+C:\Users\Arturo\Desktop\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.pdb
+C:\Users\Arturo\Desktop\EJERCICIO_MATON1\EJERCICIO_MATON1\bin\Debug\EJERCICIO_MATON1.exe
+C:\Users\Arturo\Desktop\EJERCICIO_MATON1\EJERCICIO_MATON1\bin\Debug\EJERCICIO_MATON1.pdb
+C:\Users\Arturo\Desktop\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Desktop\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.Form1.resources
+C:\Users\Arturo\Desktop\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.Properties.Resources.resources
+C:\Users\Arturo\Desktop\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.csproj.GenerateResource.Cache
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EJERCICIO_MATON1\EJERCICIO_MATON1\bin\Debug\EJERCICIO_MATON1.exe.config
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EJERCICIO_MATON1\EJERCICIO_MATON1\bin\Debug\EJERCICIO_MATON1.exe
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EJERCICIO_MATON1\EJERCICIO_MATON1\bin\Debug\EJERCICIO_MATON1.pdb
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.csproj.AssemblyReference.cache
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.Form1.resources
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.Properties.Resources.resources
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.csproj.GenerateResource.cache
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.csproj.CoreCompileInputs.cache
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.exe
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\EJERCICIO_MATON1\EJERCICIO_MATON1\obj\Debug\EJERCICIO_MATON1.pdb
